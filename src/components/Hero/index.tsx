@@ -11,7 +11,6 @@ const Hero = () => (
         <Tag>RPG</Tag>
         <Tag>PS5</Tag>
       </div>
-
       <Infos>
         <h2>Hogwarts Legacy</h2>
         <p>
